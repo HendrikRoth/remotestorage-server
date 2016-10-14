@@ -16,7 +16,7 @@ const server = new reStore({
         port: PORT
     },
     allow: {
-        signup: true
+        signup: ALLOW_SIGNUP
     }
 })
 
