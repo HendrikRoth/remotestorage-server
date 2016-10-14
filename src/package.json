@@ -1,0 +1,16 @@
+{
+  "name": "remotestorage-server",
+  "version": "0.0.1",
+  "description": "remotestorage.io Server",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "remotestorage",
+    "remotestorage.io"
+  ],
+  "author": "Hendrik Roth <hi@hendrikroth.com>",
+  "license": "MIT",
+  "dependencies": {
+    "restore": "^0.3.0"
+  }
+}
