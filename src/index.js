@@ -12,7 +12,7 @@ const store = new reStore.FileTree({
 const server = new reStore({
     store:  store,
     http: {
-        host: '127.0.0.1',
+        host: '0.0.0.0',
         port: PORT
     },
     allow: {
